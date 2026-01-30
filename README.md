@@ -10,7 +10,7 @@ The objective was to decode the current landscape of the data industry, uncoveri
 
 Advanced Power Query: Heavily utilized for cleaning "messy" survey data, handling null values, and standardizing job titles and programming languages.
 
-** Key Insights Explored**
+**Key Insights Explored**
 
 Compensation Benchmarking: Salary distribution based on job title, average age of survey takers, and geographic location.
 
