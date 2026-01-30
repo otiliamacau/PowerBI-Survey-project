@@ -1,6 +1,7 @@
 # Data Professional Survey Analysis
 
 • Project Overview
+
 This project is a dedicated showcase of fundamental Power BI principles, focusing on Data Cleaning (ETL), Structured Modeling and Insightful Visualization. The report is based on a global survey of data professionals, including Data Scientists, Analysts, and Engineers.
 
 The objective was to decode the current landscape of the data industry, uncovering trends in compensation, work-life balance, and technical stack preferences across different demographics and job titles.
